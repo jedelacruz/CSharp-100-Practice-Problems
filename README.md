@@ -3,8 +3,6 @@ CSharp-100Problems is a set of 100 C# programming challenges I created to improv
 
 # Questions
 
-# 100 Programming Problems by Difficulty
-
 ## 🟢 EASY (1-25)
 
 ### 1. Positive or Negative
